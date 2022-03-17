@@ -1,4 +1,4 @@
-# Curso_PowerBI_RecursosVisuais
+# PowerBI_Setor_RH
 
 O setor de RH de uma empresa deseja obter algumas informações através dos dados disponibilizados na pasta de trabalho do Excel:
 
